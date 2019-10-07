@@ -1,0 +1,38 @@
+_repo: Spring-Morning_60396
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Raverat, Gwen
+    alias: Raverat, Gwendolen Mary Darwin
+    birthdate: 1885
+    deathdate: 1957
+    gutenberg_agent_id: '50915'
+    url: http://www.gutenberg.org/2009/agents/50915
+    wikipedia: https://en.wikipedia.org/wiki/Gwen_Raverat
+creator:
+  author:
+    agent_name: Cornford, Frances Darwin
+    aliases:
+    - Cornford, Frances Crofts Darwin
+    - Crofts, Frances
+    - Cornford, Frances
+    birthdate: 1886
+    deathdate: 1960
+    gutenberg_agent_id: '50943'
+    url: http://www.gutenberg.org/2009/agents/50943
+    wikipedia: https://en.wikipedia.org/wiki/Frances_Cornford
+description: ''
+gutenberg_issued: '2019-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60396'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: Spring Morning
+url: http://www.gutenberg.org/ebooks/60396
